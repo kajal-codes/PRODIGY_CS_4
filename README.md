@@ -87,8 +87,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for m
 💼 **Looking for opportunities in cybersecurity & ethical hacking!** Let's connect and collaborate.
 
 📧 Email: kajalnachanekar@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [Your GitHub](github.com/kajal-codes)  
+🐙 GitHub: [GitHub](github.com/kajal-codes)  
 
 ---
 
