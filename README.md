@@ -36,7 +36,7 @@ pip install streamlit keyboard
 
 ### 3️⃣ Run the Application
 ```sh
-streamlit run app.py
+streamlit run keylogger_app.py
 ```
 
 ---
@@ -59,27 +59,6 @@ To stop logging, press **Ctrl+Alt+Q** anytime. This ensures that the log is prop
 - **Use responsibly**—Logging keystrokes without permission is illegal.
 - **For educational use only**—This tool should not be used for malicious intent.
 - **Admin/Root permissions may be required** to capture system-wide keystrokes.
-
----
-
-## 📌 Demo
-🎥 Watch the demo video here: [Demo Video Link]
-
----
-
-## 📂 Repository Structure
-```
-keylogger-streamlit/
-│── app.py  # Main Streamlit application
-│── README.md  # Documentation
-│── requirements.txt  # Python dependencies
-└── LICENSE  # Open-source license
-```
-
----
-
-## 📜 License
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for more details.
 
 ---
 
